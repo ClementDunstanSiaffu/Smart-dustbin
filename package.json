@@ -1,0 +1,17 @@
+{
+  "name": "smart-dustbin",
+  "version": "1.0.0",
+  "description": "this is for smart dustbin",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "clement dunstan siaffu",
+  "license": "ISC"
+}
